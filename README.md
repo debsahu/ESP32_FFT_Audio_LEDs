@@ -7,7 +7,7 @@ Here we use ESP32 microcontroller to analyze real-time audio signals
 - Or use MSGEQ7 chip to get the same data
 - Display frequency bands on LEDs as bars
 
-[![ESP32_FFT_AUDIO_LEDs](https://img.youtube.com/vi/XXXXXXXXXXX/0.jpg)](https://www.youtube.com/watch?v=XXXXXXXXXXX)
+[![ESP32_FFT_AUDIO_LEDs](https://img.youtube.com/vi/8YaeUYZ_Ex8/0.jpg)](https://www.youtube.com/watch?v=8YaeUYZ_Ex8)
 
 ## Libraries Needed
 
