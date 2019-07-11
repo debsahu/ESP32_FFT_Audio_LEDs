@@ -19,7 +19,7 @@ arduinoFFT FFT = arduinoFFT();
 int amplitude = 200;
 unsigned int sampling_period_us;
 unsigned long microseconds;
-byte peak[] = {0, 0, 0, 0, 0, 0, 0};
+byte peak[] = {0, 0, 0, 0, 0, 0, 0, 0};
 double vReal[SAMPLES];
 double vImag[SAMPLES];
 unsigned long newTime, oldTime;
